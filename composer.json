@@ -1,27 +1,10 @@
 {
-    "name": "talesoft/tale-jade",
+    "name": "marihachi/tale-jade",
     "type": "library",
     "keywords": ["template", "dialect", "html", "views", "presentation", "jade", "html", "php", "phtml"],
     "description": "A complete and fully-functional implementation of the Jade template language for PHP",
     "license": "MIT",
     "homepage": "http://jade.talesoft.io",
-    "authors": [
-        {
-            "name": "Talesoft",
-            "homepage": "http://talesoft.io",
-            "email": "info@talesoft.io"
-        },
-        {
-            "name": "Torben Koehn",
-            "email": "tk@talesoft.io"
-        }
-    ],
-    "support": {
-        "email": "info@talesoft.io",
-        "issues": "https://github.com/talesoft/tale-jade/issues",
-        "source": "https://github.com/talesoft/tale-jade",
-        "docs": "http://jade.talesoft.io/docs"
-    },
     "minimum-stability": "stable",
     "require": {
         "php": ">=5.5.0",
